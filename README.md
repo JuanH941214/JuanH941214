@@ -11,7 +11,8 @@ Based in Barcelona. I am a professional with a background in Fine Arts and a spe
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 </div>
 
-
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JuanH941214=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JuanH941214/JuanH941214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
