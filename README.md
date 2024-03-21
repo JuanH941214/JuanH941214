@@ -1,5 +1,7 @@
 ### Hi there 👋
+Based in Barcelona. I am a professional with a background in Fine Arts and a specialization in Full-Stack Programming. With experience in graphic design, animation, and web development, I aspire to bring a unique and multifaceted perspective to the world of technology.
 
+### 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
