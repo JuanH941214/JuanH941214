@@ -12,7 +12,7 @@ Based in Barcelona. I am a professional with a background in Fine Arts and a spe
 </div>
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JuanH941214=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanH941214)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JuanH941214/JuanH941214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
